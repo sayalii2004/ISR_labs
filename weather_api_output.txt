@@ -1,0 +1,15 @@
+student@student:~$ python3 weather_api.py
+Enter city name: London
+Weather report for London:
+Temperature: 7.56°C
+Wind Speed: 3.09 m/s
+Description: Clear sky
+Weather: Clear
+student@student:~$ python3 weather_api.py
+Enter city name: Pune
+Weather report for Pune:
+Temperature: 24.67°C
+Wind Speed: 3.57 m/s
+Description: Overcast clouds
+Weather: Clouds
+
